@@ -3,8 +3,8 @@
 
 
 We tackle the problem of Multiplayer Comprehensive Attack (MCA) where an attacker attempts to poison a Heterogeneous RecSys while anticipating subsequent oppoennts who also poisons the same RecSys. We solve MCA under a Stackelberg game framework.
-![Problem](docs/problem_setting.jpg)
-Paper: [paper pdf](docs/ready.pdf) to appear at ICDE 2023.
+![Problem](doc/problem_setting.jpg)
+Paper: [paper pdf](doc/camera_ready.pdf) to appear at ICDE 2023.
 
 ## Citation
 If you find this work or code is helpful in your research, please cite our work:
